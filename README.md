@@ -1,4 +1,4 @@
-# <h1 align="center">Bluetooth Terminal Manager</h1>
+# <h1 align="center">📶Bluetooth Terminal Manager</h1>
 
 <h4 align="center">A powerful Python-based Bluetooth device management CLI tool with advanced scanning and device management capabilities.</h4>
 
